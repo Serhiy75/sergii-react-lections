@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sergii-react-lections/static/css/main.7acaea2f.css",
+    "main.js": "/sergii-react-lections/static/js/main.07d3183d.js",
+    "index.html": "/sergii-react-lections/index.html",
+    "main.7acaea2f.css.map": "/sergii-react-lections/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/sergii-react-lections/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
