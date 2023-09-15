@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sergii-react-lections/static/css/main.7acaea2f.css",
-    "main.js": "/sergii-react-lections/static/js/main.6f112b34.js",
+    "main.js": "/sergii-react-lections/static/js/main.ff054bf4.js",
     "index.html": "/sergii-react-lections/index.html",
     "main.7acaea2f.css.map": "/sergii-react-lections/static/css/main.7acaea2f.css.map",
-    "main.6f112b34.js.map": "/sergii-react-lections/static/js/main.6f112b34.js.map"
+    "main.ff054bf4.js.map": "/sergii-react-lections/static/js/main.ff054bf4.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.6f112b34.js"
+    "static/js/main.ff054bf4.js"
   ]
 }
